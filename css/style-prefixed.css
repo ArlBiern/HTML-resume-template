@@ -20,10 +20,10 @@
 }
 
 @keyframes skills_desc {
-  0% {z-index: 5}
-  25% {z-index: 4}
-  50% {z-index: 3}
-  100% {z-index: 2}
+  0% {z-index: 5;}
+  25% {z-index: 4;}
+  50% {z-index: 3;}
+  100% {z-index: 2;}
 }
 
 @keyframes skills_img {
@@ -889,6 +889,18 @@ footer {
 }
 
 @media only screen and (max-width: 440px) {
+  body::-webkit-scrollbar {
+    width: 0 !important
+  }
+
+  body {
+    overflow: -moz-scrollbars-none;
+  }
+
+  body {
+    -ms-overflow-style: none;
+  }
+
   .skills_container, .portfolio_container, .contact_container, .footer_container {
     width: 100%;
   }

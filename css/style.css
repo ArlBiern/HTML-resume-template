@@ -827,6 +827,18 @@ footer {
 }
 
 @media only screen and (max-width: 440px) {
+  body::-webkit-scrollbar {
+    width: 0 !important
+  }
+
+  body {
+    overflow: -moz-scrollbars-none;
+  }
+
+  body {
+    -ms-overflow-style: none;
+  }
+
   .skills_container, .portfolio_container, .contact_container, .footer_container {
     width: 100%;
   }
