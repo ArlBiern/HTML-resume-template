@@ -182,62 +182,62 @@ nav {
 }
 
 .photo_item:nth-child(1) {
-  background-image: url('/img/photo2.jpg');
+  background-image: url('../img/photo2.jpg');
   background-position: 0px -50px;
   top: 50px;
   animation-delay: 0.5s;
 }
 
 .photo_item:nth-child(2) {
-  background-image: url('/img/photo3.jpg');
+  background-image: url('../img/photo3.jpg');
   background-position: 0px -10px;
   top: 10px;
   animation-delay: -2s;
 }
 
 .photo_item:nth-child(3) {
-  background-image: url('/img/photo4.jpg');
+  background-image: url('../img/photo4.jpg');
   background-position: 0px -20px;
   top: 20px;
   animation-delay: -1s;
 }
 
 .photo_item:nth-child(4) {
-  background-image: url('/img/photo5.jpg');
+  background-image: url('../img/photo5.jpg');
   background-position: 0px -30px;
   top: 30px;
   animation-delay: -4s;
 }
 
 .photo_item:nth-child(5) {
-  background-image: url('/img/photo6.jpg');
+  background-image: url('../img/photo6.jpg');
   background-position: 0px 0px;
   animation-delay: -0.5s;
 }
 
 .photo_item:nth-child(6) {
-  background-image: url('/img/photo7.jpg');
+  background-image: url('../img/photo7.jpg');
   background-position: 0px -25px;
   top: 25px;
   animation-delay: -2.5s;
 }
 
 .photo_item:nth-child(7) {
-  background-image: url('/img/photo8.jpg');
+  background-image: url('../img/photo8.jpg');
   background-position: 0px -60px;
   top: 60px;
   animation-delay: -3.5s;
 }
 
 .photo_item:nth-child(8) {
-  background-image: url('/img/photo9.jpg');
+  background-image: url('../img/photo9.jpg');
   background-position: 0px -50px;
   top: 50px;
   animation-delay: -1.5s;
 }
 
 .photo_item:nth-child(9) {
-  background-image: url('/img/photo10.jpg');
+  background-image: url('../img/photo10.jpg');
   background-position: 0px -5px;
   top: 5px;
   animation-delay: -2.25s;
@@ -346,21 +346,21 @@ nav {
 
 .skill_css {
   animation-delay: 6s;
-  background-image: url('/img/css3.png');
+  background-image: url('../img/css3.png');
 }
 
 .skill_js {
   animation-delay: 12s;
-  background-image: url('/img/js.png');
+  background-image: url('../img/js.png');
 }
 
 .skill_react {
   animation-delay: 18s;
-  background-image: url('/img/react.png');
+  background-image: url('../img/react.png');
 }
 
 .skill_html {
-  background-image: url('/img/html5.png');
+  background-image: url('../img/html5.png');
 }
 
 /* == Skills description section == */
